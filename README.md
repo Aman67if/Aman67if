@@ -46,7 +46,7 @@ I enjoy building full-stack applications and understanding how systems work behi
 A music streaming platform built using React and Next.js.  
 Currently being upgraded into a full-stack application with authentication and backend integration.
 
-### 📚 Praxes
+### 📚 Praxes (Ongoing)
 An online test platform designed to help students overcome exam fear.  
 Provides live tests, scoring system, and performance tracking.
 
